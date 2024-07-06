@@ -1,0 +1,56 @@
+#clock-button {
+    color: #74c7ec;
+}
+
+#xfce4-notification-plugin {
+    color: #f38ba8;
+}
+
+#xfce4-notification-plugin image {
+    -gtk-icon-transform: scale(0.5);
+}
+
+#xfce4-power-manager-plugin {
+    color: #a6e3a1;
+}
+
+#xfce4-power-manager-plugin image {
+    -gtk-icon-transform: scale(0.5);
+}
+
+#pulseaudio-button {
+    color: #f9e2af;
+}
+
+#pulseaudio-button .horizontal image:nth-child(1) {
+    -gtk-icon-transform: scale(0.5);
+}
+
+.xfce4-panel .tasklist .toggle {
+    margin: 2px;
+    border-radius: 50px;
+}
+
+.xfce4-panel .tasklist .toggle:checked {
+    background-color: #45475a;
+}
+
+.xfce4-panel widget grid {
+    background-color: #8aadf4;
+    border-radius: 30px;
+    border: 8px solid transparent;
+}
+
+.xfce4-panel widget grid button.flat.toggle {
+    margin: 6px;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+.xfce4-panel widget grid button.flat.toggle:hover {
+    background-color: #313244;
+}
+
+.xfce4-panel widget grid button.flat.toggle:checked {
+    background-color: #313244;
+}
